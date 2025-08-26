@@ -1,0 +1,16 @@
+/* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css2?family=Coiny&family=Titan+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nerko+One&family=Sriracha&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap');
+@import "tailwindcss";
+
+@theme {
+    --background-image-animated-1: url('/images/animated1.jpeg');
+    --background-image-animated-2: url('/images/animated2.jpeg');
+    --background-image-picture-1: url('/images/picture1.jpeg');
+    --background-image-picture-2: url('/images/picture2.jpeg');
+    --background-image-picture-3: url('/images/picture3.jpeg');
+    --background-image-picture-4: url('/images/picture4.jpeg');
+    
+    --bg-size-animated-1: 100px 100px;
+}
